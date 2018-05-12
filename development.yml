@@ -19,7 +19,7 @@ services:
     command: ["./wait-for.sh", "rabbitmq-broker:5672", "--timeout=60", "--", "node", "index.js"]
     environment:
       - QUEUE_NAME=events-queue-team
-      - TOPIC=fifa.worldcup.#.Russia.#
+      - TOPIC=fifa.worldcup.#.russia.#
     depends_on:
       - events-api
       - rabbitmq-broker
