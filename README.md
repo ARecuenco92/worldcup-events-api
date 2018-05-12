@@ -2,7 +2,7 @@
 ***
 ## Introduction
 ***
-This project has been developed for the **[Sofia adidas Hackathon](https://adidas-hack.com/location/Sofia)** and it is just a starter kit for the hackers who want to make use of it. The repository provides a streaming API that publishes soccer events associated with the **Russia 2018 World Cup**. Additionally, it contains several subscribers that retrieve those events and display them into the console. 
+This project has been developed for the **[Sofia adidas Hackathon](https://adidas-hack.com/location/Sofia)** and it is just a starter kit for the participants who want to make use of it. The repository provides a streaming API that publishes soccer events associated with the **Russia 2018 World Cup**. Additionally, it contains several subscribers that retrieve those events and display them into the console. 
 
 ## Installation requirements
 ***
